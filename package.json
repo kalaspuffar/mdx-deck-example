@@ -1,0 +1,24 @@
+{
+  "name": "mdx-deck-example",
+  "version": "1.0.0",
+  "description": "Trying out mdx deck",
+  "scripts": {
+    "start": "mdx-deck machine-learning.mdx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalaspuffar/mdx-deck-example.git"
+  },
+  "keywords": ["Machine Learning", "MDX"],
+  "author": "Daniel Persson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kalaspuffar/mdx-deck-example/issues"
+  },
+  "homepage": "https://github.com/kalaspuffar/mdx-deck-example#readme",
+  "devDependencies": {
+    "mdx-deck": "^1.8.2",
+    "mdx-deck-code-surfer": "^0.5.3",
+    "raw-loader": "^1.0.0"
+  }
+}
